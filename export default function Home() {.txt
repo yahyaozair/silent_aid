@@ -1,0 +1,14 @@
+export default function Home() {
+  return (
+    <main className="min-h-screen bg-blue-50">
+      <section className="text-center py-20">
+        <h1 className="text-4xl font-bold text-blue-800">
+          Silent Aid for Gaza
+        </h1>
+        <p className="mt-4 text-lg">
+          Your support becomes a lifeline
+        </p>
+      </section>
+    </main>
+  )
+}
